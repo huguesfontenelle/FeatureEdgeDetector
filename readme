@@ -1,0 +1,14 @@
+***************************
+Feature Edge Detector
+***************************
+
+
+Feature Edge Detector is a collection of tools for edge detection in images, based on ITK.
+It is a bit different from standard edge detectors in the sense that it must first **learn** the characteristics of an edge, on a known image. The summary of this learning is the **feature edge**.It can then apply this knowledge and **test** the feature edge on an unknown image.
+
+
+Work in progress.
+
+
+
+Hugues Fontenelle, 2014
